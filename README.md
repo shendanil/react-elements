@@ -4,4 +4,4 @@
 
 * Apply props to make reusable elements on a page
 * Use data to drive the code and map over it
-* How to use JSX Spread Operator
+* Use JSX Spread Operator
